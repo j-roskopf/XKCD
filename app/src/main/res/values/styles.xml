@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="homeAsUpIndicator">@drawable/ic_hamburger</item>
+        <item name="android:homeAsUpIndicator">@drawable/ic_hamburger</item>
+    </style>
+
+</resources>
